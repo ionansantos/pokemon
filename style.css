@@ -1,0 +1,41 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+    display: block;
+    background-color: rgb(240, 216, 0);
+    padding: 1rem;
+    border-radius: 6px;
+}
+img{
+    display: block;
+    margin:  auto;
+}
+.search{
+    display: flex;
+    margin: .3rem auto;
+}
+.search-input{
+    width: 100%;
+    padding: 10px;
+}
+.search-button{
+    background-color: rgb(28, 28, 226);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-left: .1rem;
+}
+.pokemon{
+    border-radius: 1rem;
+}
+.pokemon-picture{
+    background-color: white;
+}
+.pokemon-picture img{
+    width: 200px;
+    margin-top: 8rem;
+}
+.pokemon-info{
+    padding: 1rem;
+    background-color: rgb(243, 243, 243);
+}
